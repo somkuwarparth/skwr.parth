@@ -1,1 +1,1 @@
-# skur.parth
+# skwr.parth
