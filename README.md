@@ -1,3 +1,2 @@
 # skwr.parth
-
-These readme is edited in Branch_1
+This readme is edited in Branch_1
